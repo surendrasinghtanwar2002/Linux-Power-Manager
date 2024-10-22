@@ -28,7 +28,7 @@ Submit your contributions through Pull requests.
 
 License 📜: [MIT](https://choosealicense.com/licenses/mit/)
 
-- Made by Lokendar Jangid
+- Made by Surendra Singh Tanwar
 
 
 
